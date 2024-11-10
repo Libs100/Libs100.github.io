@@ -8,8 +8,7 @@ My goal is to be part of a big start-up that will do a big change in the Biology
 
 I live in Rehovot. 
 I love hiking and dancing and to play on my guitar and piano.
-![This is me:]
-![20241110_105645](https://github.com/user-attachments/assets/f21000d0-6672-4ff4-80e4-681e33f8d368)
+
 
 ## Academic background
 I did  my B.Sc. in Biotechnology, Bar Ilan University, Ramat Gan, Israel.
