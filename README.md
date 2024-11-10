@@ -1,4 +1,4 @@
-##Hi all!
+**Hi all!**
 
 My name is Libi, and I am currently pursuing my M.Sc. in Life Sciences in [Amnon Bar-Shir's lab](https://www.weizmann.ac.il/Organic_Chemistry/Bar-Shir/home) at the Weizmann Institute of Science  
 My goal is to be part of a major start-up that will bring significant change to the field of biology.
