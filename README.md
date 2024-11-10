@@ -30,4 +30,3 @@ Some nice links:
 My Github address: [Libs100.github.io](https://Libs100.github.io)  
 I'm taking the [Python](https://github.com/szabgab/wis-python-course-2024-11?tab=readme-ov-file) course at WIS.
 
-[windows](/windows.md)
