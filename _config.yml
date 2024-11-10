@@ -1,7 +1,5 @@
 theme: jekyll-theme-minimal
 title: "Welcome to Libi Saad's Website!"
+logo: 'logo.jpg'
 description: "M.Sc. in Life Sciences at the Weizmann Institute of Science"
-logo : 'logo.jpg'
-title_align: center
 show_downloads: false
-
