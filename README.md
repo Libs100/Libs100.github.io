@@ -27,6 +27,6 @@ I completed my B.Sc. in Biotechnology at Bar-Ilan University, Ramat Gan, Israel.
 ---
 
 Some nice links:  
-My Github address: [Libs100.github.io](https://Libs100.github.io)  
+My Github address: [Libs100.github.io](https://github.com/Libs100/Libs100.github.io)  
 I'm taking the [Python](https://github.com/szabgab/wis-python-course-2024-11?tab=readme-ov-file) course at WIS.
 
