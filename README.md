@@ -25,9 +25,8 @@ I completed my B.Sc. in Biotechnology at Bar-Ilan University, Ramat Gan, Israel.
    Examines mechanisms of gene regulation, emphasizing the role of Intrinsically Disordered Regions (IDRs) in transcription factors. The research aims to decode how IDRs enable precise and rapid gene targeting within complex genomes.
 
 ---
-
+ 
 Some nice links:  
-My Github address: [Libs100.github](https://github.com/Libs100/Libs100.github.io)
+My Github address: [Libs100.github](https://github.com/Libs100/Libs100.github.io)  <br>
 
 I'm taking the [Python](https://github.com/szabgab/wis-python-course-2024-11?tab=readme-ov-file) course at WIS.
-
