@@ -9,6 +9,11 @@ I love hiking, dancing, and playing guitar and piano.
 ## Academic background
 I completed my B.Sc. in Biotechnology at Bar-Ilan University, Ramat Gan, Israel. During my undergraduate studies, I participated in several research projects:
 
+## Technical skills
+• Molecular methods - electrophoresis, PCR, transformation in bacteria, Mini prep, transfection, Western blot, FACS, genetic manipulations, mutagenesis, NMR, MRI, FMI.
+• Methods for studying behavior - Drosophila: a two-choice feeding system, OptoPAD. Rats: swim test.
+• Programming languages - R, MATLAB, Python
+
 1. **[Shohat-Ophir Lab](https://ophirgalit.wixsite.com/shohat-ophir-lab)**: Investigated motivation encoding in Drosophila, focusing on genetic programs in neurons and their effects on physiology, circuits, and behavior.
 
 2. **[Haim Cohen Lab](https://www.haimcohenlab.com/)**: Studied aging mechanisms, with a focus on SIRT6, a regulator of longevity. The research involved human tissue cultures, mouse models, and multi-omics approaches to explore ways to prevent age-related diseases.
